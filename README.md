@@ -1,8 +1,5 @@
 # EVCSS_BE
-
-
-
-
+Electric Vehicle Charging Station Service
 
 2023-07-10 : PJ Dependencies DESC: SHMA
 private: 개인 프로젝트로 설정 (패키지를 공개적으로 배포 X)
