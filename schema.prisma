@@ -1,0 +1,10 @@
+// schema.prisma 파일 예시
+
+datasource db {
+  provider = "custom"
+  url      = "192.168.222.113:1522/MOSDB"
+}
+generator client {
+    provider      = "prisma-clinet-js"
+    binaryTargets = ["windows", "darwin"]
+}
