@@ -3,7 +3,7 @@ Electric Vehicle Charging Station Service
 
 2023-07-10 : PJ Dependencies DESC: SHMA
 private: 개인 프로젝트로 설정 (패키지를 공개적으로 배포 X)
-description: 프로젝트에 대한 간단한 설명이 없는 것으로 보입니다.
+description: 프로젝트에 대한 간단한 설명
 main: 프로젝트의 진입점 파일로 "index.js"로 설정되어 있습니다.
 
 dependencies-
